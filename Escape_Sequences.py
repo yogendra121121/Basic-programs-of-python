@@ -1,0 +1,7 @@
+print("hello\nstudents")
+print("My\tname")
+print("Karma   \b\b\bis great")
+print("Adharam\r ")
+print("backslash symbol \\")
+print('double quote symbol \" ')
+print("single quote symbol \' ")
